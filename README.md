@@ -1,2 +1,0 @@
-# lecture_assignment
-homework
